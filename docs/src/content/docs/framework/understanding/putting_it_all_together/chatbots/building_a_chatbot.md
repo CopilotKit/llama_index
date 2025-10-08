@@ -312,7 +312,7 @@ Open two terminals:
 Terminal 1 (agent):
 
 ```bash
-export OPENAI_API_KEY="your_openai_api_key"
+export OPENAI_API_KEY="•••••••••••••••" # your OpenAI API key
 python agent.py
 ```
 
